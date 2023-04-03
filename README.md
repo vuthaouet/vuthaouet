@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Thanh Thao!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthaouet&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthaouet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthaouet&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
